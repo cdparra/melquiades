@@ -1,0 +1,148 @@
+URL of admitted in french competitions
+====================================================================================
+http://intersection.dsi.cnrs.fr/intersection/resultats-cc-en.do?campagne=34&conc=27/01&phase=ADMISSION
+====================================================================================
+
+
+URL for rankings
+====================================================================================
+
+http://open.dapper.net/transform.php?dappName=FrenchResearchersCompetitionsRankingsADMISSION&transformer=CSV&extraArg_fields[]=rank&extraArg_fields[]=fullname&applyToUrl=http%3A%2F%2Fintercompetition.dsi.cnrs.fr%2Fintercompetition%2Fresultats-cc-en.do%3Fcampagne%3D34%26conc%3D01%2F05%26phase%3DADMISSIBILITE
+http://open.dapper.net/transform.php?dappName=FrenchResearchersCompetitionsRankingsADMISSION&transformer=CSV&extraArg_fields[]=rank&extraArg_fields[]=fullname&applyToUrl=http%3A%2F%2Fintersection.dsi.cnrs.fr%2Fintersection%2Fresultats-cc-en.do%3Fcampagne%3D34%26conc%3D01%2F07%26phase%3DADMISSIBILITE
+====================================================================================
+
+BAHOURI Hajer  	 Eligible
+DZAMONJA Mirna 	Eligible
+IVASHKOVYCH Serge 	Eligible
+KOMECH Alexander 	Eligible
+NIZIOL Wieslawa 	Eligible
+PYATNITSKIY Andrey 	Eligible
+REIDER Igor 	Eligible
+RHANDI Abdelaziz 	Eligible
+RUGH Hans Henrik 	Eligible
+SEMAEV Igor 	Eligible
+SIMANCA Santiago R 	Eligible
+VERBITSKY Misha 	Eligible
+ZUEVSKY Alexander 	Eligible 
+
+BAHOURI Hajer  	 Main list : Rank 1 
+
+
+---
+
+ALBOUY Alain  	 Eligible
+ARABIA alberto 	Eligible
+BACRY Emmanuel 	Eligible
+BALAZARD Michel 	Eligible
+BIDEGARAY-FESQUET Brigitte 	Eligible
+BLANCHARD Etienne 	Eligible
+BLONDEL Corinne 	Eligible
+BOULANOUAR Mohamed 	Eligible
+BREARD Andrea 	Eligible
+BRESSLER Paul 	Eligible
+CANTAT serge 	Eligible
+CARLES Remi 	Eligible
+CASSIER Gilles 	Eligible
+CHARDIN Marc 	Eligible
+CHAUDOUARD Pierre-Henri 	Eligible
+CHERITAT Arnaud 	Eligible
+CISINSKI Denis Charles 	Eligible
+CITTI Giovanna 	Eligible
+CORTEEL Sylvie 	Eligible
+COULOMBEL Jean-Francois 	Eligible
+CROVISIER Sylvain 	Eligible
+DE LA RUE Thierry 	Eligible
+DE VUYST Florian 	Eligible
+DIMITROV Alexander 	Eligible
+DRUEL Stéphane 	Eligible
+DRUET Olivier 	Eligible
+DZAMONJA Mirna 	Eligible
+EISENBAUM Nathalie 	Eligible
+ERSHLER Anna 	Eligible
+FARGUES Laurent 	Eligible
+FAVRE Charles 	Eligible
+FAYAD bassam 	Eligible
+FILBET Francis 	Eligible
+FUNAR Louis 	Eligible
+GARAY Mauricio 	Eligible
+GAUCHER Philippe 	Eligible
+GAYRARD veronique 	Eligible
+GERBI Stéphane 	Eligible
+GHOULMIE FRANCOIS 	Eligible
+GOLENIA Sylvain 	Eligible
+GRAHAM Carl 	Eligible
+HAN Guoniu 	Eligible
+HELFGOTT Harald Andres 	Eligible
+ILLE Pierre 	Eligible
+JALIGOT Eric 	Eligible
+KIM Inkang 	Eligible
+KIRILLOV Oleg 	Eligible
+KLINGLER Bruno 	Eligible
+KOLEV Boris 	Eligible
+KOMECH Alexander 	Eligible
+KOSHEVOY Gleb 	Eligible
+KRUPA Maciej 	Eligible
+LAFFORGUE Vincent 	Eligible
+LAURENT Olivier 	Eligible
+LOVEJOY Jeremy 	Eligible
+LUDKOVSKY Sergey 	Eligible
+MAAKESTAD Helge 	Eligible
+MAILLOT Vincent 	Eligible
+MANCHON Dominique 	Eligible
+MARCKERT Jean François 	Eligible
+MATIAS Catherine 	Eligible
+MERKER Joël 	Eligible
+MOROIANU Andrei 	Eligible
+NIZIOL Wieslawa 	Eligible
+OANCEA Alexandru 	Eligible
+ORTEGA LAHUERTA Juan-Pablo 	Eligible
+OSSONA DE MENDEZ Patrice 	Eligible
+OUDET Edouard 	Eligible
+OVSIENKO valentin 	Eligible
+PAICU Marius 	Eligible
+PERELMAN Galina 	Eligible
+POWELL Geoffrey 	Eligible
+QUINT Jean-François 	Eligible
+RAMARE Olivier 	Eligible
+REIDER Igor 	Eligible
+RHANDI Abdelaziz 	Eligible
+RIVOAL Tanguy 	Eligible
+SCHIFFMANN Olivier 	Eligible
+SEMAEV Igor 	Eligible
+SINI Mourad 	Eligible
+SODAIGUI Bouchaïb 	Eligible
+STEPANOV Eugene 	Eligible
+TARRES Pierre 	Eligible
+URBAN Eric 	Eligible
+VALLETTE Bruno 	Eligible
+VERBITSKY Misha 	Eligible
+WALLET Jean-Christophe 	Eligible
+WANG Wei-Min 	Eligible
+WU Jie 	Eligible
+ZUEVSKY Alexander 	Eligible 
+
+
+FUNAR Louis  	 Qualified for second round rank 1
+LAFFORGUE Vincent 	Qualified for second round rank 1
+URBAN Eric 	Qualified for second round rank 1
+WANG Wei-Min 	Qualified for second round rank 1
+JALIGOT Eric 	Qualified for second round rank 5
+RIVOAL Tanguy 	Qualified for second round rank 6
+FAVRE Charles 	Qualified for second round rank 7
+FAYAD bassam 	Qualified for second round rank 8
+SCHIFFMANN Olivier 	Qualified for second round rank 9
+CANTAT serge 	Qualified for second round rank 10 
+
+
+
+
+FUNAR Louis 	Main list : Rank 1
+LAFFORGUE Vincent 	Main list : Rank 2
+URBAN Eric 	Main list : Rank 3
+WANG Wei-Min 	Main list : Rank 4
+JALIGOT Eric 	Main list : Rank 5
+RIVOAL Tanguy 	Main list : Rank 6
+FAVRE Charles 	Main list : Rank 7
+FAYAD bassam 	Main list : Rank 8
+SCHIFFMANN Olivier 	Main list : Rank 9
+CANTAT serge 	Waiting list : Rank 1 

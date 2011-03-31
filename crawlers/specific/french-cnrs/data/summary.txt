@@ -1,0 +1,17 @@
+Summary of dataset
+================================================================================
+
+PHASE: admission
+45 sections
+1-9 competitions for section 
+85 rankings of more than 5 researchers
+66 rankings of more than 5 researchers in sciences 
+
+
+
+
+PHASE: admissibility
+
+
+
+PHASE: elegibility
