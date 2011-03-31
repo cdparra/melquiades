@@ -1,0 +1,26 @@
+"ID" ------------> just an unique id for the record
+"phase" ---------> the phase of the contest to which the record corresponds
+"section" -------> section is the domain or area of the contest as in
+              	   http://gestionoffres.dsi.cnrs.fr/fo/offres/sections-popup-en.php
+"competition" ---> number of the competition (in some sections there are more than one)
+"grade" ---------> class of the position http://gestionoffres.dsi.cnrs.fr/fo/offres/grades-popup-en.php
+"ranking_code" --> an unique identifier of the competition as a simple 
+                   concatenation of section+competition+grade+phase          
+"fullname" ------> fullname of the researcher
+"name" ----------> just name (couldn't split for everyone yet)
+"lastname" ------> just lastname (couldn't split for everyone yet)
+"list" ----------> list in which the candidate was placed
+"rank" ----------> ranking within the list (only in the Main list of admission)
+"unified_rank" --> unified ranking after join all the lists (only for admissions)
+"has_results" ---> a flag indicating if I found results by querying gscholar
+
+then we have metrics I calculated for people in the last phase. 
+"gs_pub"
+"gs_citedpub"
+"gs_citations"
+"gs_hindex"
+"gs_gindex"
+"gs_aindex"
+"gs_h2index"
+"gs_eindex"
+"phase_num"
