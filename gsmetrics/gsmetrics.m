@@ -43,6 +43,8 @@ function [Aidx, H2idx, Eidx, g, h, ncited,pcited]=gsmetrics(name,fullname,vararg
 %
 %   F. Moisy, moisy@fast.u-psud.fr
 %   Revision: 1.11,  Date: 10-jul-2006
+%   C. Parra, cdparra@gmail.com
+%   Revision: 1.12,  Date: 03-sep-2010
 
 
 % History:
